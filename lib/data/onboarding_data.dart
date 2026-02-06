@@ -4,17 +4,17 @@ class OnboardingData {
   static final List <OnboardingModel> onboardingData = [
     OnboardingModel(
       title: 'Welcome to CashPilot', 
-      imagePath: 'assets/img2.png', 
+      imagePath: 'assets/img7.png', 
       description: 'Your smart companion for tracking income, expenses, and savings all in one place.'
     ),
     OnboardingModel(
       title: 'Track Every Expense', 
-      imagePath: 'assets/img1.png', 
+      imagePath: 'assets/img6.png', 
       description: 'Easily record your daily income and expenses, categorize transactions, and stay in control of your spending.'
     ),
     OnboardingModel(
       title: 'Manage Money Better', 
-      imagePath: 'assets/img3.png', 
+      imagePath: 'assets/img8.png', 
       description: 'Visualize your spending, plan budgets, and build healthier financial habits with clear insights.'
     )
   ];

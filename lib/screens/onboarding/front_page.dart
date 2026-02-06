@@ -7,7 +7,7 @@ class FrontPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Image.asset(
-          "assets/img4.png",
+          "assets/img5.png",
           width: 175,
           fit: BoxFit.cover,
         )
